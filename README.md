@@ -5,9 +5,7 @@ A system-level simulator for LEO non-terrestrial networks, developed for the pap
 ([arXiv:2611.21027](https://arxiv.org/abs/2611.21027)).
 
 The simulator models a multi-satellite LEO downlink with realistic orbital geometry (from TLEs),
-a two-timescale fading channel, MISO beamforming, external interference, and a minimum-power
-allocation. On top of it sits a handover study that compares association strategies such as
-max-RSRP and max-service-time (longest-visibility) over both OneWeb and Starlink.
+a two-timescale fading channel, and a optimization solutions and resouce allocation.
 
 ## Layout
 
